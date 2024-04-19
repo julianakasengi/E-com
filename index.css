@@ -1,0 +1,21 @@
+body{
+    overflow: hidden;
+}
+/* .container{
+    position: relative;
+    text-align: center;
+    color: aliceblue;
+} */
+
+#bg-img {
+    /* background-image:url(/Images/shop.jpg); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px; 
+    width: 1500px;  
+
+}
+#navb a{
+    color: white !important;;
+}
